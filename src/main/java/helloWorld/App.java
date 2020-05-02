@@ -20,8 +20,8 @@ public class App {
             hardCodeName = "Venancio";
         }
 
-        System.out.println("Hello " + args[0] + ", and " + args[1] + " also " + hardCodeName); 
- 
+        System.out.println("Hello " + args[0] + ", and " + args[1] + " also " + hardCodeName);
+
         // TODO: Saludar con los nombres recibidos y en el texto del saludo a la terminal
 
         System.out.println("---------------------");
